@@ -1,12 +1,6 @@
 # Chithram
 
-Chithram is a movie streaming service built using ReactJS and TypeScript. It allowing users to browse, search, and watch movies. 
-
-## Features
-
-- **Browse**: Explore a vast library of movies and series categorized by genres.
-- **Search**: Quickly find your favorite content using the search functionality.
-- **Watchlist**: Create a personalized watchlist to save content for later viewing.
+Chithram is a sleek and modern frontend clone of Netflix. Built with React, it features a responsive and intuitive interface that mimics the look and feel of the popular streaming service. 
 
 ## Installation
 
@@ -36,9 +30,4 @@ npm install
 npm start
 ```
 
-5. Open your browser and navigate to `http://localhost:3000` to view Chithram.
-
-## Acknowledgements
-
-- This project was inspired by the user interface and features of Netflix.
-- Special thanks to the developers of ReactJS, TypeScript, and all other libraries and tools used in this project.
+5. Open your browser and navigate to `http://localhost:5173` to view Chithram.
